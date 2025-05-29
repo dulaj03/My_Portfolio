@@ -15,8 +15,8 @@
   </div>
   <h3 align="center">Create a Stunning Developer Portfolio with Animations, Dark Mode, and Projects Showcase</h3>
   <div align="center">
-    Follow the full video tutorial on 
-    <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"><b>YouTube</b></a>
+    Follow and Connect with me on  
+    <a href="https://www.linkedin.com/in/dulaj-dulsith-a7093a27a/" target="_blank"><b>LinkedIn</b></a>
   </div>
   <br />
 </div>
@@ -34,9 +34,7 @@
 
 ## 🚀 Introduction
 
-In this tutorial, you'll learn how to build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
-
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
+Hey there! I am Dulaj Dulsith. This is a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases.
 
 ---
 
@@ -47,6 +45,7 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 * **TailwindCSS** – Utility-first CSS for styling
 * **Lucide Icons** – Clean and beautiful icon pack
 * **Radix UI** – Accessible component primitives
+* **EmailJs** - Recieve user message to my Email
 * **TypeScript (optional)** – Type safety and tooling
 * **GitHub & Vercel** – Deployment
 
@@ -75,8 +74,8 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 * 📩 **Contact Section**
   Social icons + responsive contact form with toast notifications
 
-* 🚀 **One-Click Deployment**
-  Easily host your site with Vercel and GitHub
+* 🚀 **One-Click Message**
+  Message recieving to my Email address
 
 ---
 
@@ -90,8 +89,8 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 ### Clone and Run
 
 ```bash
-git clone https://github.com/yourusername/react-tailwind-portfolio.git
-cd react-tailwind-portfolio
+git clone
+cd My_Portfolio
 npm install
 npm run dev
 ```
@@ -99,14 +98,6 @@ npm run dev
 Your app will be available at: [http://localhost:5173](http://localhost:5173)
 
 ---
-
-## 🖼️ Screenshots
-
-> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
-
----
-
-## ☁️ Deployment
 
 ### Deploy on Vercel
 
