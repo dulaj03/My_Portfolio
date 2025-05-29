@@ -7,7 +7,7 @@ const projects = [
     description: "An application that can add to a website to achieve real-time chatting option. Main goal is to engage community interactions.",
     image: "/projects/project1.png",
     tags: ["Socket.io", "Express.js", "Node.js" , "HTML/CSS"],
-    demoUrl: "#",
+    demoUrl: "https://www.linkedin.com/posts/dulaj-dulsith-a7093a27a_webdevelopment-socketio-nodejs-activity-7324713622532710400-4gsi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQgSHQB8NTkTyXyERnFDkJNl3nCYDxNdwY",
     githubUrl: "https://github.com/dulaj03/Live_ChatApp_WebSockets",
   },
   {
@@ -15,9 +15,9 @@ const projects = [
     title: "Plant Optimizing System",
     description:
       "IoT based Smart Hydroponic system for monitor a full plant growth and all works done without any human interaction.",
-    image: "/projects/project2.png",
+    image: "/projects/project2.jpg",
     tags: ["Arduino", "PHP", "JavaScript" , "HTML/CSS" , "IoT" , "SQL"],
-    demoUrl: "#",
+    demoUrl: "https://www.linkedin.com/posts/dulaj-dulsith-a7093a27a_smartfarming-iotprojects-hydroponics-activity-7329524618895990784-XhOt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQgSHQB8NTkTyXyERnFDkJNl3nCYDxNdwY",
     githubUrl: "https://github.com/dulaj03/Smart_HydroponicSystem_with_IoT",
   },
   {
@@ -27,7 +27,7 @@ const projects = [
       "The application is designed to facilitate air quality monitoring by integrating real-time data collection and display features.",
     image: "/projects/project3.png",
     tags: ["PHP", "Leaflet.js", "API" , "HTML/CSS" , "SQL"],
-    demoUrl: "#",
+    demoUrl: "https://www.linkedin.com/in/dulaj-dulsith-a7093a27a/recent-activity/all/",
     githubUrl: "https://github.com/dulaj03/PUSL2020_SDTP-WebDash",
   },
   {
@@ -35,9 +35,9 @@ const projects = [
     title: "Movie Booking Application",
     description:
       "The application is designed for Moviegoers looking for a simple, fast, and interactive online booking experience.",
-    image: "/projects/project3.png",
+    image: "/projects/project4.png",
     tags: ["JSP", "Servlet", "MySQL" , "HTML/CSS" , "Jakarta"],
-    demoUrl: "#",
+    demoUrl: "https://www.linkedin.com/posts/dulaj-dulsith-a7093a27a_webdevelopment-moviebooking-teamproject-activity-7331726804103168001-wFIm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQgSHQB8NTkTyXyERnFDkJNl3nCYDxNdwY",
     githubUrl: "https://github.com/dinoth03/PUSL2024_Group_i_ABC-Cinema",
   },
   {
@@ -45,9 +45,9 @@ const projects = [
     title: "TechLink - Mobile App",
     description:
       "A comprehensive mobile platform connecting IT professionals, students, and enthusiasts in one integrated ecosystem.",
-    image: "/projects/project3.png",
+    image: "/projects/project5.jpg",
     tags: ["Dart", "Flutter", "Stripe" , "Firebase" , "AndriodStudio"],
-    demoUrl: "#",
+    demoUrl: "https://www.linkedin.com/posts/dulaj-dulsith-a7093a27a_techforgood-flutterdev-firebase-activity-7331880804756676608-bFkT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQgSHQB8NTkTyXyERnFDkJNl3nCYDxNdwY",
     githubUrl: "https://github.com/dulaj03/TechLink_MobileApp",
   },
   {
@@ -55,9 +55,9 @@ const projects = [
     title: "GrowSmart - Web App",
     description:
       "Web-based gardening platform to empower users with tools such as real-time scenarios for better plant care, better gardening practices.",
-    image: "/projects/project3.png",
+    image: "/projects/project6.png",
     tags: ["PHP", "Node.js", "Express.js" , "Stripe" , "PHPMailer" , "SQL" , "HMTL/CSS"],
-    demoUrl: "#",
+    demoUrl: "https://www.linkedin.com/posts/dulaj-dulsith-a7093a27a_sustainability-greentech-gardeningcommunity-activity-7332007421701226496-TSdb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQgSHQB8NTkTyXyERnFDkJNl3nCYDxNdwY",
     githubUrl: "https://github.com/dulaj03/GrowSmart_WebApplication",
   },
 ];
