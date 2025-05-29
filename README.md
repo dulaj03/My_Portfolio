@@ -1,4 +1,4 @@
-# Build a Modern Portfolio Website with React & TailwindCSS
+# Dulaj Dulsith - My Portfolio Website
 
 <div align="center">
   <br />
