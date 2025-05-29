@@ -120,5 +120,3 @@ Your live website will be hosted on a custom subdomain (e.g. `https://your-name.
 * [Vercel](https://vercel.com/)
 
 ---
-
-Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
