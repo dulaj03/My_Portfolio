@@ -16,7 +16,7 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              As a 3rd Years Undergraduate, I gained some experience in web development, I specialize
+              As a 3rd Year Undergraduate, I gained experiences specially in web development, I specialized
               in creating responsive, accessible, and performant web
               applications using modern technologies.
             </p>
